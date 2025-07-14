@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Exo:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-starfield {
+  background: radial-gradient(ellipse at 50% 30%, #232946 60%, #181c24 100%);
+  position: relative;
+} 
